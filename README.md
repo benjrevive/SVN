@@ -8,6 +8,15 @@ $ sudo apt-get install subversion
 $ sudo mkdir -p /home/svn/<repo name>
 $ 
 ```
+```
+$ sudo svnadmin create /home/svn/<repo name>
+```
+```
+$ sudo vim /home/<repo name>/repository/conf/svnserve.conf
+```
+```
+$ sudo vim /home/svn/<repo name>/conf/passwd 
+```
 ## SVN client (RabbitVCS) installation on Ubuntu 14.04 Desktop
 ```
 $ sudo add-apt-repository ppa:rabbitvcs/ppa
