@@ -41,6 +41,8 @@ $ nautilus -q
 ```  
 在檔案瀏覽器中點選右鍵會出現 RabbitVCS SVN 選項  
 
+## SVN plugin for Eclipse
+
 ## 參考資料
 * Ubuntu 14.04下搭建SVN服务器（SVN Server） http://www.linuxidc.com/Linux/2016-08/133961.htm
 * How to install RabbitVCS on Ubuntu 14.04? http://askubuntu.com/questions/464532/how-to-install-rabbitvcs-on-ubuntu-14-04/464535#464535
