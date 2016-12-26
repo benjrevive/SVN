@@ -11,13 +11,17 @@ $ svnserve --version --quiet
 ```
 ```
 $ sudo mkdir -p <SVN repo root>/<repo name>
+$ sudo chmod -R 777 <SVN repo root>/<repo name>
 $ sudo svnadmin create <SVN repo root>/<repo name>
+$ sudo chmod -R 777 <SVN repo root>/<repo name>/db
 ```
+啟用 SVN 密碼檔
 ```
-$ sudo vim /home/<repo name>/repository/conf/svnserve.conf
+$ sudo vim <SVN repo root>/<repo name>/conf/svnserve.conf
 ```
+新增使用者帳號與密碼
 ```
-$ sudo vim /home/svn/<repo name>/conf/passwd 
+$ sudo vim <SVN repo root>/<repo name>/conf/passwd 
 ```
 啟動 SVN server 服務 (-d: 背景執行; -r: 後面接版本管理庫根目錄; --listen-host: 當伺服器有多個 IP 時，後面接 SVN server 服務所使用的 IP)
 ```
