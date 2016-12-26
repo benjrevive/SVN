@@ -10,11 +10,8 @@ $ svn --version --quiet
 $ svnserve --version --quiet
 ```
 ```
-$ sudo mkdir -p /home/svn/<repo name>
-$ 
-```
-```
-$ sudo svnadmin create /home/svn/<repo name>
+$ sudo mkdir -p <SVN repo root>/<repo name>
+$ sudo svnadmin create <SVN repo root>/<repo name>
 ```
 ```
 $ sudo vim /home/<repo name>/repository/conf/svnserve.conf
