@@ -1,5 +1,5 @@
 #SVN
-https://github.com/benjrevive/svn  
+https://github.com/benjrevive/SVN  
 *  [SVN server installation on Ubuntu 14.04](#svn-server-installation-on-ubuntu-1404)
 *  [SVN client (RabbitVCS) installation on Ubuntu 14.04 Desktop](#svn-client-rabbitvcs-installation-on-ubuntu-1404-desktop)
 *  [SVN plugin for Eclipse](#svn-plugin-for-eclipse)  
@@ -53,6 +53,8 @@ $ nautilus -q
 1\)<br />
 點選 Help > Install New Software...<br />
 ![install_new_software.png](/image/install_new_software.png)<br />
+在 Install 視窗中 Work with: 欄位，點選下拉式選單，選擇 Luna - http://download.eclipse.org/releases/luna<br />
+![luna.png](/image/luna.png)<br />
 2\)<br />
 3\)<br />
   
