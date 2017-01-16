@@ -45,11 +45,11 @@ $ nautilus -q
 待補充  
 3 種安裝方法  
 開啟 Eclipse  
-1  
+1\)  
 點選 Help > Install New Software...1  
 ![install_new_software.png](/image/install_new_software.png)  
-2  
-3  
+2\)  
+3\)  
   
 ## 參考資料
 * Ubuntu 14.04下搭建SVN服务器（SVN Server） http://www.linuxidc.com/Linux/2016-08/133961.htm
