@@ -51,8 +51,9 @@ $ nautilus -q
 點選功能表 Help > Install New Software...<br />
 ![install_new_software.png](/image/install_new_software.png)<br />
 在 Install 視窗中 Work with: 欄位，點選下拉式選單，選擇 Luna - http://download.eclipse.org/releases/luna<br />
-![luna.png](/image/luna.png)<br />
-
+![luna.png](/image/luna.png)<br />  
+在 filter text 欄位中輸入 subversive 過濾項目，勾選 Subversive Revision Graph (Optional)、Subversive SVN JDT Ignore Extensions (Optional) 和 Subversive SVN Team Provider<br />
+![]()<br />
   
 ##參考資料
 * Ubuntu 14.04下搭建SVN服务器（SVN Server） http://www.linuxidc.com/Linux/2016-08/133961.htm
