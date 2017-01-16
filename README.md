@@ -42,7 +42,9 @@ $ nautilus -q
 在檔案瀏覽器中點選右鍵會出現 RabbitVCS SVN 選項  
 
 ## SVN plugin for Eclipse
-待補充  
+待補充  
+安裝  
+方法  
 3 種安裝方法  
 開啟 Eclipse  
 1\)  
