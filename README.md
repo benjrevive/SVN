@@ -1,10 +1,10 @@
-# SVN
+#SVN
 https://github.com/benjrevive/svn  
 *  [SVN server installation on Ubuntu 14.04](#svn-server-installation-on-ubuntu-1404)
 *  [SVN plugin for Eclipse](#svn-plugin-for-eclipse)  
 *  [參考資料](#參考資料)
   
-<h2 id="svn-server-installation-on-ubuntu-1404">SVN server installation on Ubuntu 14.04</h2>
+##SVN server installation on Ubuntu 14.04
 ```
 $ sudo apt-get update
 $ sudo apt-get install subversion
@@ -32,7 +32,7 @@ $ sudo vim <SVN repo root>/<repo name>/conf/passwd
 ```
 $ svnserve -d -r /home/svn [--listen-host X.X.X.X]
 ```
-## SVN client (RabbitVCS) installation on Ubuntu 14.04 Desktop
+##SVN client (RabbitVCS) installation on Ubuntu 14.04 Desktop
 將 RabbitVCS 套件庫加進來並安裝 RabbitVCS
 ```
 $ sudo add-apt-repository ppa:rabbitvcs/ppa
@@ -55,7 +55,7 @@ $ nautilus -q
 2\)<br />
 3\)<br />
   
-## 參考資料
+##參考資料
 * Ubuntu 14.04下搭建SVN服务器（SVN Server） http://www.linuxidc.com/Linux/2016-08/133961.htm
 * How to install RabbitVCS on Ubuntu 14.04? http://askubuntu.com/questions/464532/how-to-install-rabbitvcs-on-ubuntu-14-04/464535#464535
 * 【系統】SVN 筆記 - 基本指令 http://blog.xuite.net/chingwei/blog/25557142-%E3%80%90%E7%B3%BB%E7%B5%B1%E3%80%91SVN+%E7%AD%86%E8%A8%98+-+%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4
