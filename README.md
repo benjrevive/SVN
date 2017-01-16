@@ -58,5 +58,5 @@ $ nautilus -q
 ##參考資料
 * Ubuntu 14.04下搭建SVN服务器（SVN Server） http://www.linuxidc.com/Linux/2016-08/133961.htm
 * How to install RabbitVCS on Ubuntu 14.04? http://askubuntu.com/questions/464532/how-to-install-rabbitvcs-on-ubuntu-14-04/464535#464535
-* 【系統】SVN 筆記 - 基本指令 http://blog.xuite.net/chingwei/blog/25557142-%E3%80%90%E7%B3%BB%E7%B5%B1%E3%80%91SVN+%E7%AD%86%E8%A8%98+-+%E5%9F%BA%E6%9C%AC%E6%8C%87%E4%BB%A4
+* 【系統】SVN 筆記 - 基本指令 http://blog.xuite.net/chingwei/blog/25557142-【系統】SVN+筆記+-+基本指令
 * Eclipse Subversive - Subversion (SVN) Team Provider http://www.eclipse.org/subversive/
