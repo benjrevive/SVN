@@ -42,16 +42,14 @@ $ nautilus -q
 在檔案瀏覽器中點選右鍵會出現 RabbitVCS SVN 選項  
 
 ## SVN plugin for Eclipse
-待補充  
-安裝  
-方法  
-3 種安裝方法  
-開啟 Eclipse  
-1\)  
-點選 Help > Install New Software...1  
-![install_new_software.png](/image/install_new_software.png)  
-2\)  
-3\)  
+待補充<br />
+3 種安裝方法<br />
+開啟 Eclipse<br />
+1\)<br />
+點選 Help > Install New Software...1<br />
+![install_new_software.png](/image/install_new_software.png)<br />
+2\)<br />
+3\)<br />
   
 ## 參考資料
 * Ubuntu 14.04下搭建SVN服务器（SVN Server） http://www.linuxidc.com/Linux/2016-08/133961.htm
