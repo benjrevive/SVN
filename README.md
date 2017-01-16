@@ -1,8 +1,8 @@
 # SVN
 https://github.com/benjrevive/svn  
-*  [1](/#SVN-plugin-for-Eclipse)  
+*  [1](#SVN-plugin-for-Eclipse)  
   
-## SVN server installation on Ubuntu 14.04
+<h2 id=""> SVN server installation on Ubuntu 14.04</h2>
 ```
 $ sudo apt-get update
 $ sudo apt-get install subversion
@@ -43,7 +43,7 @@ $ nautilus -q
 ```  
 在檔案瀏覽器中點選右鍵會出現 RabbitVCS SVN 選項  
 
-## SVN plugin for Eclipse
+<h2 id="SVN plugin for Eclipse">SVN plugin for Eclipse</h2>
 待補充<br />
 3 種安裝方法<br />
 開啟 Eclipse<br />
