@@ -1,11 +1,11 @@
-#SVN
+# SVN
 https://github.com/benjrevive/SVN  
 *  [SVN server installation on Ubuntu 14.04](#svn-server-installation-on-ubuntu-1404)
 *  [SVN client (RabbitVCS) installation on Ubuntu 14.04 Desktop](#svn-client-rabbitvcs-installation-on-ubuntu-1404-desktop)
 *  [SVN plugin for Eclipse](#svn-plugin-for-eclipse)  
 *  [參考資料](#參考資料)
   
-##SVN server installation on Ubuntu 14.04
+## SVN server installation on Ubuntu 14.04
 ```
 $ sudo apt-get update
 $ sudo apt-get install subversion
@@ -33,7 +33,7 @@ $ sudo vim <SVN repo root>/<repo name>/conf/passwd
 ```
 $ svnserve -d -r /home/svn [--listen-host X.X.X.X]
 ```
-##SVN client (RabbitVCS) installation on Ubuntu 14.04 Desktop
+## SVN client (RabbitVCS) installation on Ubuntu 14.04 Desktop
 將 RabbitVCS 套件庫加進來並安裝 RabbitVCS
 ```
 $ sudo add-apt-repository ppa:rabbitvcs/ppa
@@ -46,7 +46,7 @@ $ nautilus -q
 ```  
 在檔案瀏覽器中點選右鍵會出現 RabbitVCS SVN 選項  
 
-##SVN plugin for Eclipse
+## SVN plugin for Eclipse
 開啟 Eclipse，點選功能表 Help > Install New Software...<br />
 ![install_new_software.png](/image/install_new_software.png)<br />
 在 Install 視窗中 Work with: 欄位，點選下拉式選單，選擇 Luna - http://download.eclipse.org/releases/luna<br />
@@ -54,7 +54,7 @@ $ nautilus -q
 在 filter text 欄位中輸入 subversive 過濾項目，勾選 Subversive Revision Graph (Optional)、Subversive SVN JDT Ignore Extensions (Optional) 和 Subversive SVN Team Provider，按下 Next ><br />
 ![]()<br />
 <br />  
-##參考資料
+## 參考資料
 * Ubuntu 14.04下搭建SVN服务器（SVN Server） http://www.linuxidc.com/Linux/2016-08/133961.htm
 * How to install RabbitVCS on Ubuntu 14.04? http://askubuntu.com/questions/464532/how-to-install-rabbitvcs-on-ubuntu-14-04/464535#464535
 * 【系統】SVN 筆記 - 基本指令 http://blog.xuite.net/chingwei/blog/25557142-【系統】SVN+筆記+-+基本指令
